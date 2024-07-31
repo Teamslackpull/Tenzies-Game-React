@@ -1,4 +1,6 @@
-My Dice Game Application
+Tenzies Game ( With personaly added functionalitys )
+
+added ( Hard Mode, Extreme Mode )
 
 Overview
 
