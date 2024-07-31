@@ -1,0 +1,15 @@
+@import url(https://db.onlinewebfonts.com/c/2ba0dc3a3aeaf8a94097b7b60b382990?family=Chalkboard+SE);
+
+body,html {
+    font-family: "Chalkboard SE";
+    padding:0.5em;
+    height: 100%;
+    background-color: #0B2434;;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
